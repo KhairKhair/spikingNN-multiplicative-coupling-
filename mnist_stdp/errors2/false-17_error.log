@@ -1,0 +1,2 @@
+/home/mka7870/.local/lib/python3.9/site-packages/ngclearn/__init__.py:12: UserWarning: Running ngclearn and jax in a python version prior to 3.10 may have unintended consequences. Compatability with python 3.8 is maintained to allow for lava-nc components and should only be used with those
+  warnings.warn(

@@ -1,0 +1,203 @@
+Running with parameters: hidden=50, use_coupled=true, seed=61, lam=0.5, eta=0.5, batch=50
+Test Loss: 0.0000, Test Accuracy: 0.9967, Energy: -13573.83984375
+Time taken:  0.6247763633728027
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -280221.6875
+Time taken:  0.5749471187591553
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -651235.375
+Time taken:  0.5574665069580078
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -918220.25
+Time taken:  0.5591373443603516
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1131147.75
+Time taken:  0.5641655921936035
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1302438.5
+Time taken:  0.557450532913208
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1446548.625
+Time taken:  0.5575599670410156
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1562094.5
+Time taken:  0.5567123889923096
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1660541.75
+Time taken:  0.555628776550293
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1738944.0
+Time taken:  0.5606033802032471
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1804095.0
+Time taken:  0.5600392818450928
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1857504.125
+Time taken:  0.557196855545044
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1901250.25
+Time taken:  0.5573475360870361
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1935966.375
+Time taken:  0.5656862258911133
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1963174.75
+Time taken:  0.5579323768615723
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -1986965.625
+Time taken:  0.5647919178009033
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2006238.125
+Time taken:  0.5600111484527588
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2023427.875
+Time taken:  0.5613889694213867
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2036942.875
+Time taken:  0.5536072254180908
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2048660.625
+Time taken:  0.5548539161682129
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2058516.75
+Time taken:  0.5602898597717285
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2066632.25
+Time taken:  0.5640921592712402
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2073508.0
+Time taken:  0.5644919872283936
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2079142.0
+Time taken:  0.5595405101776123
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2083727.625
+Time taken:  0.5663270950317383
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2087202.5
+Time taken:  0.5658376216888428
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2090335.5
+Time taken:  0.5629453659057617
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2092719.0
+Time taken:  0.5650279521942139
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2094754.25
+Time taken:  0.5564534664154053
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2096392.375
+Time taken:  0.5589499473571777
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2097674.25
+Time taken:  0.5639560222625732
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2098820.0
+Time taken:  0.5653119087219238
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2099613.25
+Time taken:  0.5664618015289307
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2100476.0
+Time taken:  0.5652508735656738
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2101226.0
+Time taken:  0.5588738918304443
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2101575.75
+Time taken:  0.5632030963897705
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2102152.75
+Time taken:  0.5658397674560547
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2102359.75
+Time taken:  0.5650451183319092
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2102735.5
+Time taken:  0.560666561126709
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2102923.25
+Time taken:  0.558837890625
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103122.0
+Time taken:  0.5698215961456299
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103278.5
+Time taken:  0.566434383392334
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103533.75
+Time taken:  0.570319414138794
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103502.5
+Time taken:  0.5615289211273193
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103528.0
+Time taken:  0.5721156597137451
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103503.25
+Time taken:  0.5664165019989014
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103797.75
+Time taken:  0.5691549777984619
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103569.5
+Time taken:  0.5579068660736084
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103771.5
+Time taken:  0.5582406520843506
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103822.75
+Time taken:  0.5607390403747559
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103737.25
+Time taken:  0.5635883808135986
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103830.75
+Time taken:  0.565711259841919
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104045.5
+Time taken:  0.566169023513794
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103884.75
+Time taken:  0.5654456615447998
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103968.5
+Time taken:  0.5647149085998535
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103893.0
+Time taken:  0.5666577816009521
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104081.0
+Time taken:  0.5682754516601562
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104047.5
+Time taken:  0.5640742778778076
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103904.0
+Time taken:  0.5706231594085693
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103907.0
+Time taken:  0.5522449016571045
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103794.0
+Time taken:  0.5463755130767822
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103986.5
+Time taken:  0.5621311664581299
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104008.0
+Time taken:  0.5663270950317383
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103791.25
+Time taken:  0.5648605823516846
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103847.5
+Time taken:  0.5616068840026855
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103940.0
+Time taken:  0.5494296550750732
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103955.0
+Time taken:  0.56978440284729
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104074.75
+Time taken:  0.56253981590271
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103864.0
+Time taken:  0.5693910121917725
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104020.25
+Time taken:  0.567223072052002
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103878.0
+Time taken:  0.5751278400421143
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103880.25
+Time taken:  0.554253339767456
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103913.75
+Time taken:  0.5623295307159424
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103851.5
+Time taken:  0.568739652633667
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103864.5
+Time taken:  0.5697586536407471
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103937.5
+Time taken:  0.5663197040557861
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103951.0
+Time taken:  0.5596315860748291
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104045.0
+Time taken:  0.5654804706573486
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103806.0
+Time taken:  0.564016580581665
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103862.75
+Time taken:  0.5686886310577393
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103962.25
+Time taken:  0.5644652843475342
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104052.0
+Time taken:  0.5682065486907959
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103943.0
+Time taken:  0.5494554042816162
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103785.5
+Time taken:  0.5615279674530029
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103954.5
+Time taken:  0.5623421669006348
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103915.25
+Time taken:  0.5696260929107666
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103952.75
+Time taken:  0.5667166709899902
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104065.5
+Time taken:  0.5653705596923828
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103855.5
+Time taken:  0.560722827911377
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104023.5
+Time taken:  0.5719454288482666
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104109.0
+Time taken:  0.5629007816314697
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104006.5
+Time taken:  0.563190221786499
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103819.75
+Time taken:  0.5620160102844238
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103993.75
+Time taken:  0.5619516372680664
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103908.0
+Time taken:  0.5648946762084961
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2104250.25
+Time taken:  0.5630996227264404
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103900.75
+Time taken:  0.5640606880187988
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103986.5
+Time taken:  0.5675203800201416
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103974.75
+Time taken:  0.5680282115936279
+Test Loss: 0.0000, Test Accuracy: 1.0000, Energy: -2103954.75
+Time taken:  0.5648016929626465
+Final accuracies: [0.9966666666666667, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Final energies: [-13573.83984375, -280221.6875, -651235.375, -918220.25, -1131147.75, -1302438.5, -1446548.625, -1562094.5, -1660541.75, -1738944.0, -1804095.0, -1857504.125, -1901250.25, -1935966.375, -1963174.75, -1986965.625, -2006238.125, -2023427.875, -2036942.875, -2048660.625, -2058516.75, -2066632.25, -2073508.0, -2079142.0, -2083727.625, -2087202.5, -2090335.5, -2092719.0, -2094754.25, -2096392.375, -2097674.25, -2098820.0, -2099613.25, -2100476.0, -2101226.0, -2101575.75, -2102152.75, -2102359.75, -2102735.5, -2102923.25, -2103122.0, -2103278.5, -2103533.75, -2103502.5, -2103528.0, -2103503.25, -2103797.75, -2103569.5, -2103771.5, -2103822.75, -2103737.25, -2103830.75, -2104045.5, -2103884.75, -2103968.5, -2103893.0, -2104081.0, -2104047.5, -2103904.0, -2103907.0, -2103794.0, -2103986.5, -2104008.0, -2103791.25, -2103847.5, -2103940.0, -2103955.0, -2104074.75, -2103864.0, -2104020.25, -2103878.0, -2103880.25, -2103913.75, -2103851.5, -2103864.5, -2103937.5, -2103951.0, -2104045.0, -2103806.0, -2103862.75, -2103962.25, -2104052.0, -2103943.0, -2103785.5, -2103954.5, -2103915.25, -2103952.75, -2104065.5, -2103855.5, -2104023.5, -2104109.0, -2104006.5, -2103819.75, -2103993.75, -2103908.0, -2104250.25, -2103900.75, -2103986.5, -2103974.75, -2103954.75]

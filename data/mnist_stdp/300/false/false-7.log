@@ -1,0 +1,160 @@
+ -cpus-per-task=4
+Running with parameters: use_coupled=false, seed=7, samples=60000, hidden=300
+started
+7 False 60000 300 200
+--- Building Model ---
+not using coupled
+--- Starting Simulation ---
+Namespace(seed=7, T=200, use_coupled=False, max_samples=60000, hidden_size=300)
+
+--- Epoch 1/30 ---
+training took 3549.3359677791595
+Accuracy after epoch 1: 83.65%
+testing took 729.2767815589905
+
+--- Epoch 2/30 ---
+training took 3673.638941526413
+Accuracy after epoch 2: 85.93%
+testing took 716.412846326828
+
+--- Epoch 3/30 ---
+training took 3635.085230588913
+Accuracy after epoch 3: 87.00%
+testing took 722.8511807918549
+
+--- Epoch 4/30 ---
+training took 3642.6478040218353
+Accuracy after epoch 4: 87.32%
+testing took 716.5406954288483
+
+--- Epoch 5/30 ---
+training took 3631.653208255768
+Accuracy after epoch 5: 87.68%
+testing took 700.043080329895
+
+--- Epoch 6/30 ---
+training took 3548.5560207366943
+Accuracy after epoch 6: 87.94%
+testing took 700.2512879371643
+
+--- Epoch 7/30 ---
+training took 3550.3037164211273
+Accuracy after epoch 7: 87.97%
+testing took 699.5189712047577
+
+--- Epoch 8/30 ---
+training took 3546.2194786071777
+Accuracy after epoch 8: 88.81%
+testing took 699.350882768631
+
+--- Epoch 9/30 ---
+training took 3544.9239070415497
+Accuracy after epoch 9: 88.48%
+testing took 698.8938944339752
+
+--- Epoch 10/30 ---
+training took 3556.0261483192444
+Accuracy after epoch 10: 89.36%
+testing took 700.0126671791077
+
+--- Epoch 11/30 ---
+training took 3547.1574132442474
+Accuracy after epoch 11: 90.10%
+testing took 698.9025118350983
+
+--- Epoch 12/30 ---
+training took 3557.0264642238617
+Accuracy after epoch 12: 90.34%
+testing took 708.712099313736
+
+--- Epoch 13/30 ---
+training took 3591.7213010787964
+Accuracy after epoch 13: 90.63%
+testing took 704.9912612438202
+
+--- Epoch 14/30 ---
+training took 3583.317433834076
+Accuracy after epoch 14: 90.83%
+testing took 707.492026090622
+
+--- Epoch 15/30 ---
+training took 3597.507657766342
+Accuracy after epoch 15: 90.58%
+testing took 714.2158958911896
+
+--- Epoch 16/30 ---
+training took 3550.046459913254
+Accuracy after epoch 16: 90.68%
+testing took 699.9387254714966
+
+--- Epoch 17/30 ---
+training took 3560.2732741832733
+Accuracy after epoch 17: 90.97%
+testing took 703.1262853145599
+
+--- Epoch 18/30 ---
+training took 3467.0034222602844
+Accuracy after epoch 18: 90.79%
+testing took 663.6884753704071
+
+--- Epoch 19/30 ---
+training took 3451.328910112381
+Accuracy after epoch 19: 90.92%
+testing took 698.6785898208618
+
+--- Epoch 20/30 ---
+training took 3543.4443657398224
+Accuracy after epoch 20: 90.73%
+testing took 699.3434348106384
+
+--- Epoch 21/30 ---
+training took 3543.5542187690735
+Accuracy after epoch 21: 90.79%
+testing took 700.5678842067719
+
+--- Epoch 22/30 ---
+training took 3547.666771173477
+Accuracy after epoch 22: 90.65%
+testing took 701.0374064445496
+
+--- Epoch 23/30 ---
+training took 3548.3326876163483
+Accuracy after epoch 23: 90.75%
+testing took 700.2455785274506
+
+--- Epoch 24/30 ---
+training took 3547.5420179367065
+Accuracy after epoch 24: 90.80%
+testing took 698.102596282959
+
+--- Epoch 25/30 ---
+training took 3539.9114141464233
+Accuracy after epoch 25: 90.45%
+testing took 698.5407567024231
+
+--- Epoch 26/30 ---
+training took 3547.8315241336823
+Accuracy after epoch 26: 90.35%
+testing took 699.8253717422485
+
+--- Epoch 27/30 ---
+training took 3545.65593957901
+Accuracy after epoch 27: 90.58%
+testing took 699.5764307975769
+
+--- Epoch 28/30 ---
+training took 3545.9195053577423
+Accuracy after epoch 28: 90.97%
+testing took 698.920309305191
+
+--- Epoch 29/30 ---
+training took 3584.8282537460327
+Accuracy after epoch 29: 90.82%
+testing took 706.3496148586273
+
+--- Epoch 30/30 ---
+training took 3583.4394397735596
+Accuracy after epoch 30: 90.81%
+testing took 706.4945466518402
+Final accuracies:  [83.65, 85.92999999999999, 87.0, 87.32, 87.68, 87.94, 87.97, 88.81, 88.48, 89.36, 90.10000000000001, 90.34, 90.63, 90.83, 90.58, 90.68, 90.97, 90.79, 90.92, 90.73, 90.79, 90.64999999999999, 90.75, 90.8, 90.45, 90.35, 90.58, 90.97, 90.82000000000001, 90.81]
+Final Energies:  []

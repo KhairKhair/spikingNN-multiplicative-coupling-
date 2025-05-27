@@ -1,0 +1,250 @@
+Parameters: use_coupled=true, seed=3, samples=60000, hidden=100
+started
+3 True 60000 100
+--- Building Model ---
+Using coupled with use_coupled True  - use_movingAvg True  - lam, eta 0.5 0.5
+a_pre:  0.1
+a_post:  0.05
+--- Starting Simulation ---
+
+--- Epoch 1/40 ---
+training took 1984.19087600708
+energy normal:  -90.991776
+Accuracy after epoch 1: 84.30%
+testing took 374.68671345710754
+
+--- Epoch 2/40 ---
+training took 1935.4210379123688
+energy normal:  -283.32852
+Accuracy after epoch 2: 85.27%
+testing took 373.6776432991028
+
+--- Epoch 3/40 ---
+training took 1933.2322471141815
+energy normal:  -581.0951
+Accuracy after epoch 3: 87.88%
+testing took 376.26395535469055
+
+--- Epoch 4/40 ---
+training took 1933.3218307495117
+energy normal:  -985.04767
+Accuracy after epoch 4: 87.62%
+testing took 373.82558250427246
+
+--- Epoch 5/40 ---
+training took 1932.3428988456726
+energy normal:  -1495.3193
+Accuracy after epoch 5: 87.08%
+testing took 383.84316539764404
+
+--- Epoch 6/40 ---
+training took 1933.2479090690613
+energy normal:  -2113.2078
+Accuracy after epoch 6: 87.04%
+testing took 373.39316177368164
+
+--- Epoch 7/40 ---
+training took 1947.0260169506073
+energy normal:  -2839.599
+Accuracy after epoch 7: 86.87%
+testing took 373.5197014808655
+
+--- Epoch 8/40 ---
+training took 1987.3998737335205
+energy normal:  -3674.0698
+Accuracy after epoch 8: 86.53%
+testing took 375.25600266456604
+
+--- Epoch 9/40 ---
+training took 1953.0974547863007
+energy normal:  -4614.7144
+Accuracy after epoch 9: 86.93%
+testing took 373.7115819454193
+
+--- Epoch 10/40 ---
+training took 1952.0815660953522
+energy normal:  -5663.573
+Accuracy after epoch 10: 88.70%
+testing took 387.0561830997467
+
+--- Epoch 11/40 ---
+training took 1940.8839371204376
+energy normal:  -6820.0728
+Accuracy after epoch 11: 88.30%
+testing took 373.43496775627136
+
+--- Epoch 12/40 ---
+training took 1949.69078373909
+energy normal:  -8083.115
+Accuracy after epoch 12: 88.47%
+testing took 374.2326271533966
+
+--- Epoch 13/40 ---
+training took 1940.8461682796478
+energy normal:  -9453.679
+Accuracy after epoch 13: 88.27%
+testing took 386.92321944236755
+
+--- Epoch 14/40 ---
+training took 1952.562941789627
+energy normal:  -10931.421
+Accuracy after epoch 14: 88.35%
+testing took 374.0568344593048
+
+--- Epoch 15/40 ---
+training took 1950.013546705246
+energy normal:  -12518.163
+Accuracy after epoch 15: 88.53%
+testing took 373.9831266403198
+
+--- Epoch 16/40 ---
+training took 1947.7460532188416
+energy normal:  -14209.61
+Accuracy after epoch 16: 88.16%
+testing took 374.40304040908813
+
+--- Epoch 17/40 ---
+training took 1946.2308065891266
+energy normal:  -16007.931
+Accuracy after epoch 17: 87.97%
+testing took 374.63422536849976
+
+--- Epoch 18/40 ---
+training took 1954.6549887657166
+energy normal:  -17914.055
+Accuracy after epoch 18: 88.39%
+testing took 374.04962062835693
+
+--- Epoch 19/40 ---
+training took 1945.1914913654327
+energy normal:  -19927.74
+Accuracy after epoch 19: 88.49%
+testing took 374.5400667190552
+
+--- Epoch 20/40 ---
+training took 1943.1146199703217
+energy normal:  -22051.156
+Accuracy after epoch 20: 88.01%
+testing took 374.3478879928589
+
+--- Epoch 21/40 ---
+training took 1964.6843464374542
+energy normal:  -24279.7
+Accuracy after epoch 21: 87.77%
+testing took 376.49819898605347
+
+--- Epoch 22/40 ---
+training took 1946.6183898448944
+energy normal:  -26611.695
+Accuracy after epoch 22: 87.88%
+testing took 373.30566120147705
+
+--- Epoch 23/40 ---
+training took 1945.8721446990967
+energy normal:  -29050.896
+Accuracy after epoch 23: 88.16%
+testing took 374.32041931152344
+
+--- Epoch 24/40 ---
+training took 1983.4986038208008
+energy normal:  -31599.77
+Accuracy after epoch 24: 87.97%
+testing took 387.73330330848694
+
+--- Epoch 25/40 ---
+training took 1997.633850812912
+energy normal:  -34252.9
+Accuracy after epoch 25: 88.28%
+testing took 387.7952837944031
+
+--- Epoch 26/40 ---
+training took 1955.8874297142029
+energy normal:  -37015.68
+Accuracy after epoch 26: 87.87%
+testing took 373.6341178417206
+
+--- Epoch 27/40 ---
+training took 1971.0447888374329
+energy normal:  -39888.535
+Accuracy after epoch 27: 88.06%
+testing took 398.2046239376068
+
+--- Epoch 28/40 ---
+training took 1998.4086816310883
+energy normal:  -42864.418
+Accuracy after epoch 28: 87.90%
+testing took 397.13972902297974
+
+--- Epoch 29/40 ---
+training took 2002.8103013038635
+energy normal:  -45952.156
+Accuracy after epoch 29: 88.03%
+testing took 385.2792372703552
+
+--- Epoch 30/40 ---
+training took 1956.1279983520508
+energy normal:  -49145.848
+Accuracy after epoch 30: 88.47%
+testing took 375.0735833644867
+
+--- Epoch 31/40 ---
+training took 2038.973643541336
+energy normal:  -52443.305
+Accuracy after epoch 31: 88.42%
+testing took 395.23599886894226
+
+--- Epoch 32/40 ---
+training took 1953.5133211612701
+energy normal:  -55843.867
+Accuracy after epoch 32: 88.54%
+testing took 373.8255603313446
+
+--- Epoch 33/40 ---
+training took 2001.5199570655823
+energy normal:  -59353.633
+Accuracy after epoch 33: 88.31%
+testing took 394.7949368953705
+
+--- Epoch 34/40 ---
+training took 1944.0939993858337
+energy normal:  -62976.48
+Accuracy after epoch 34: 88.24%
+testing took 375.9224135875702
+
+--- Epoch 35/40 ---
+training took 2003.3505251407623
+energy normal:  -66700.47
+Accuracy after epoch 35: 88.52%
+testing took 382.7635314464569
+
+--- Epoch 36/40 ---
+training took 1987.3474097251892
+energy normal:  -70534.59
+Accuracy after epoch 36: 88.27%
+testing took 383.30877804756165
+
+--- Epoch 37/40 ---
+training took 1980.1836879253387
+energy normal:  -74467.53
+Accuracy after epoch 37: 88.31%
+testing took 389.0159184932709
+
+--- Epoch 38/40 ---
+training took 2012.7921431064606
+energy normal:  -78519.4
+Accuracy after epoch 38: 88.47%
+testing took 389.3626010417938
+
+--- Epoch 39/40 ---
+training took 1939.599352836609
+energy normal:  -82673.09
+Accuracy after epoch 39: 88.18%
+testing took 374.23753094673157
+
+--- Epoch 40/40 ---
+training took 1975.2300162315369
+energy normal:  -86935.41
+Accuracy after epoch 40: 88.34%
+testing took 379.33412766456604
+Final accuracies:  [84.3, 85.27, 87.88, 87.62, 87.08, 87.03999999999999, 86.87, 86.53, 86.92999999999999, 88.7, 88.3, 88.47, 88.27000000000001, 88.35, 88.53, 88.16000000000001, 87.97, 88.39, 88.49000000000001, 88.01, 87.77000000000001, 87.88, 88.16000000000001, 87.97, 88.28, 87.87, 88.06, 87.9, 88.03, 88.47, 88.42, 88.53999999999999, 88.31, 88.24, 88.52, 88.27000000000001, 88.31, 88.47, 88.18, 88.34]
+Final Energies:  [Array(-90.991776, dtype=float32), Array(-283.32852, dtype=float32), Array(-581.0951, dtype=float32), Array(-985.04767, dtype=float32), Array(-1495.3193, dtype=float32), Array(-2113.2078, dtype=float32), Array(-2839.599, dtype=float32), Array(-3674.0698, dtype=float32), Array(-4614.7144, dtype=float32), Array(-5663.573, dtype=float32), Array(-6820.0728, dtype=float32), Array(-8083.115, dtype=float32), Array(-9453.679, dtype=float32), Array(-10931.421, dtype=float32), Array(-12518.163, dtype=float32), Array(-14209.61, dtype=float32), Array(-16007.931, dtype=float32), Array(-17914.055, dtype=float32), Array(-19927.74, dtype=float32), Array(-22051.156, dtype=float32), Array(-24279.7, dtype=float32), Array(-26611.695, dtype=float32), Array(-29050.896, dtype=float32), Array(-31599.77, dtype=float32), Array(-34252.9, dtype=float32), Array(-37015.68, dtype=float32), Array(-39888.535, dtype=float32), Array(-42864.418, dtype=float32), Array(-45952.156, dtype=float32), Array(-49145.848, dtype=float32), Array(-52443.305, dtype=float32), Array(-55843.867, dtype=float32), Array(-59353.633, dtype=float32), Array(-62976.48, dtype=float32), Array(-66700.47, dtype=float32), Array(-70534.59, dtype=float32), Array(-74467.53, dtype=float32), Array(-78519.4, dtype=float32), Array(-82673.09, dtype=float32), Array(-86935.41, dtype=float32)]

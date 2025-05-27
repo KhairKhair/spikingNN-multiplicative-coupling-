@@ -1,0 +1,61 @@
+Running with parameters: use_coupled=false, seed=12, hidden=200
+Test Accuracy of epoch 0   is:  0.0927
+Time taken:  77.47624397277832
+Test Accuracy of epoch  0  is:  0.9144
+Time taken:  74.02425336837769
+Test Accuracy of epoch  1  is:  0.9182
+Time taken:  73.74158215522766
+Test Accuracy of epoch  2  is:  0.9071
+Time taken:  73.63844227790833
+Test Accuracy of epoch  3  is:  0.8906
+Time taken:  73.83512854576111
+Test Accuracy of epoch  4  is:  0.8905
+Time taken:  74.10307168960571
+Test Accuracy of epoch  5  is:  0.8786
+Time taken:  73.8387086391449
+Test Accuracy of epoch  6  is:  0.8952
+Time taken:  73.65966320037842
+Test Accuracy of epoch  7  is:  0.8914
+Time taken:  73.4231538772583
+Test Accuracy of epoch  8  is:  0.8936
+Time taken:  74.29070472717285
+Test Accuracy of epoch  9  is:  0.8939
+Time taken:  73.67716193199158
+Test Accuracy of epoch  10  is:  0.8974
+Time taken:  74.30753993988037
+Test Accuracy of epoch  11  is:  0.8984
+Time taken:  73.80908346176147
+Test Accuracy of epoch  12  is:  0.8978
+Time taken:  73.98580193519592
+Test Accuracy of epoch  13  is:  0.8937
+Time taken:  74.08893132209778
+Test Accuracy of epoch  14  is:  0.8922
+Time taken:  74.34391474723816
+Test Accuracy of epoch  15  is:  0.8778
+Time taken:  73.61695957183838
+Test Accuracy of epoch  16  is:  0.8948
+Time taken:  73.64953804016113
+Test Accuracy of epoch  17  is:  0.8974
+Time taken:  73.56664419174194
+Test Accuracy of epoch  18  is:  0.9006
+Time taken:  74.19834661483765
+Test Accuracy of epoch  19  is:  0.8974
+Time taken:  73.8705563545227
+Test Accuracy of epoch  20  is:  0.8937
+Time taken:  73.43569040298462
+Test Accuracy of epoch  21  is:  0.8928
+Time taken:  73.72068977355957
+Test Accuracy of epoch  22  is:  0.8986
+Time taken:  73.47377848625183
+Test Accuracy of epoch  23  is:  0.9003
+Time taken:  74.76100587844849
+Test Accuracy of epoch  24  is:  0.8791
+Time taken:  74.17597341537476
+Test Accuracy of epoch  25  is:  0.8833
+Time taken:  74.08852863311768
+Test Accuracy of epoch  26  is:  0.8863
+Time taken:  74.00371026992798
+Test Accuracy of epoch  27  is:  0.8809
+Time taken:  73.87974214553833
+Test Accuracy of epoch  28  is:  0.8896
+Final accuracies: [0.0927, 0.9144, 0.9182, 0.9071, 0.8906, 0.8905, 0.8786, 0.8952, 0.8914, 0.8936, 0.8939, 0.8974, 0.8984, 0.8978, 0.8937, 0.8922, 0.8778, 0.8948, 0.8974, 0.9006, 0.8974, 0.8937, 0.8928, 0.8986, 0.9003, 0.8791, 0.8833, 0.8863, 0.8809, 0.8896]
